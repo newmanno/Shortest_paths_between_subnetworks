@@ -1,4 +1,4 @@
-# TopNet: A network topology analysis program written using NetworkX
+# Grouped shortest paths
 > This script will take as input two subnetworks, then calculate all shortest paths between each pair of nodes in the two subnetworks. Output is a comma separated list of source and target nodes, along with their pathlength. For each pair of nodes, there can be multiple shortest paths. Each of these can be retained if specified by the user.
 
 
